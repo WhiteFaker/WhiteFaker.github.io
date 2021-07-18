@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on whiteFaker</title>
+    <link>eFaker.github.io.git/post/</link>
+    <description>Recent content in Posts on whiteFaker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 18 Jul 2021 23:51:14 +0800</lastBuildDate><atom:link href="eFaker.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M25</title>
+      <link>eFaker.github.io.git/post/m25/</link>
+      <pubDate>Sun, 18 Jul 2021 23:51:14 +0800</pubDate>
+      
+      <guid>eFaker.github.io.git/post/m25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mm</title>
+      <link>eFaker.github.io.git/post/mm/</link>
+      <pubDate>Sun, 18 Jul 2021 23:51:00 +0800</pubDate>
+      
+      <guid>eFaker.github.io.git/post/mm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
